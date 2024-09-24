@@ -1,0 +1,47 @@
+body{
+    background-color: #D5E1EF;
+}
+.container{
+    background-color:white;
+    padding: 6px;
+    width: 10rem;
+    height: 16em;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 100px;
+   
+    
+   }
+   .qr-code{
+    border-radius: 10px;
+    background-color:white;
+    text-align: center;
+   
+
+}
+
+.imagen img{
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 3px;
+    width: 10em;
+    height: 10em;
+
+}
+
+.text-1{
+    color: rgb(4, 4, 42);
+    font-size: 12px;
+}
+
+.text-2{
+    color: rgb(4, 4, 42);
+    font-size: 8px;
+
+    
+
+}
+
+
